@@ -10,3 +10,5 @@ Functionality:
 4. Sing in
 5. Pop up if field is empty
 6. Add usernames in the data.txt
+
+The code is running on Qt c++
