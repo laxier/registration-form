@@ -1,6 +1,6 @@
 # registration-form
 
-That's a simple windowed-application. It's working on a text-data-file that contains logins and passwords.
+That's a simple windowed-application. It's working on a text-data-file that contains logins and passwords. Login must not contain spaces.
 
 Functionality:
 
@@ -11,4 +11,4 @@ Functionality:
 5. Pop up if field is empty
 6. Add usernames in the data.txt
 
-The code is running on Qt c++
+Download executable file: https://drive.google.com/drive/folders/1SvznMJGvbTQ1jfvSmZeLo11Tu02i2nJM?usp=sharing
